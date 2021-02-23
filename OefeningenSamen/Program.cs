@@ -10,6 +10,7 @@ namespace OefeningenSamen
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
